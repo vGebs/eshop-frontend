@@ -7,6 +7,11 @@ const ProductPage = () => {
     return (
         <div>
             <h1>ProductPage: {id}</h1>
+            <h1>ProductPage: {id}</h1>
+            <h1>ProductPage: {id}</h1>
+            <h1>ProductPage: {id}</h1>
+            <h1>ProductPage: {id}</h1>
+            <h1>ProductPage: {id}</h1>
         </div>
     )
 }

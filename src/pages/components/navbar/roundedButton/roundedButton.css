@@ -1,0 +1,17 @@
+.rounded-button {
+  background-color: #f16692;
+  color: #fff;
+  border-radius: 14px;
+  padding: 7px 14px;
+  border: none;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  cursor: pointer;
+}
+
+.rounded-button:hover {
+  background-color: #fff;
+  color: #f16692;
+  transition: all 0.3s ease-in-out;
+}
